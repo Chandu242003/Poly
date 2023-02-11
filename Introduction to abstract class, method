@@ -33,3 +33,7 @@ System.out.println("Student Resume");
 System.out.println("Name : " +name); 
 System.out.println("Result : "+result+" cgpa"); 
 System.out.println("Discipline : "+discipline);
+} 
+} 
+public class InterfaceP
+{
