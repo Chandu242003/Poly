@@ -8,7 +8,6 @@ String name,qualification,achievements;
 float experience; 
 public void biodata() 
 { 
-
 name="Imran Ulla Khan"; 
 qualification="M.Tech"; 
 achievements="Q1 publication"; 
