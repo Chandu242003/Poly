@@ -28,4 +28,6 @@ end if;
 
 and 18: q temp
 
-abar < not temp: end process
+abar < not temp: 
+end process
+
