@@ -1,0 +1,31 @@
+begin
+
+input < 14k
+
+process (clk, j, k, p,c)
+
+variable temptatd_logic:'0'
+
+begin
+
+if (c1 and p-1) then
+
+if rising edge (clk) shen
+
+case input is
+
+when 10 temp:'1' when 01 semp:'0'
+
+when 11 tempinot temp:
+
+when others -> null;
+
+end case:
+
+end if;
+
+4
+
+and 18: q temp
+
+abar < not temp: end process
