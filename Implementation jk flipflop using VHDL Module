@@ -8,9 +8,9 @@ variable temp:std_logic:'0'
 
 begin
 
-if (c1 and p-1) then
+if (c=1 and p=1) then
 
-if rising edge (clk) shen
+if rising edge (clk) then
 
 case input is
 
