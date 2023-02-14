@@ -1,10 +1,10 @@
 begin
 
-input < 14k
+input <=j&k
 
 process (clk, j, k, p,c)
 
-variable temptatd_logic:'0'
+variable temp:std_logic:'0'
 
 begin
 
