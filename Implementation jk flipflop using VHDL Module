@@ -14,19 +14,18 @@ if rising edge (clk) then
 
 case input is
 
-when 10 temp:'1' when 01 semp:'0'
+when '10' => temp:'1'
+ when '01' =>temp:'0'
 
-when 11 tempinot temp:
+when '11' temp:not temp:
 
 when others -> null;
 
 end case:
 
 end if;
-
-4
-
-and 18: q temp
+else
+temp=0
 
 abar < not temp: 
 end process
